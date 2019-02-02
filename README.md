@@ -18,4 +18,4 @@ docker run \
 
 ## Screenshots
 
-<img src="Screenshot.jpeg" style="width:75%;height:75%;"/>
+<img src="Screenshot.jpg" style="width:75%;height:75%;"/>
